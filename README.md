@@ -1,5 +1,5 @@
-# Shell
-An interactive user defined shell in C
+# Linux-Shell
+User defined Linux Shell in C 
 
 ## Compile
 - compile using simple make
